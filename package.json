@@ -1,0 +1,17 @@
+{
+  "name": "gitsync",
+  "version": "1.0.0",
+  "description": "use gitsync",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node createSignature"
+  },
+  "author": "famanoder",
+  "license": "ISC",
+  "dependencies": {
+    "base64-min": "^1.2.0",
+    "open": "0.0.5",
+    "shelljs": "^0.7.7"
+  }
+}
