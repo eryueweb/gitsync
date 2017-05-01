@@ -1,8 +1,8 @@
 module.exports={
 	PORT:2333,
 	QUERYS:['git','user','signature'],
-	USERS:['hufeng','famanoder'],
-	BASE_MIN_KEY:'HUXIAOFENG',
+	USERS:['xiaoming','XIAOFENG'],
+	BASE_MIN_KEY:'SOME KEY WORDS',
 	/*
 	* now, I allways think that all my repls should be in one
 	*/
